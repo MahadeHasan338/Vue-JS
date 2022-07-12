@@ -1,11 +1,11 @@
 <template>
-  <HelloWorld />
+  <AnimatedNav />
 </template>
 
 <script>
-import HelloWorld from "./components/HelloWorld.vue";
+import AnimatedNav from "./components/AnimatedNav.vue";
 export default {
-  components: { HelloWorld },
+  components: { AnimatedNav },
 };
 </script>
 
